@@ -31,7 +31,7 @@
 
 ## 2. Whitelabel Error Page 스크린샷
 
-![[Pasted image 20250930014043.png]]
+![[screenshot.png]]
 
 ## 3. 온라인 쇼핑몰 프로젝트 API 명세서 작성
 
